@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMQ.API", "TestMQ.API\TestMQ.API.csproj", "{74085E1E-3F3A-4333-BA70-5DE14366EF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMQ.Processing", "TestMQ.Processing\TestMQ.Processing.csproj", "{56537BC4-0904-4DC2-89C7-30B3B1AE5CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74085E1E-3F3A-4333-BA70-5DE14366EF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74085E1E-3F3A-4333-BA70-5DE14366EF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74085E1E-3F3A-4333-BA70-5DE14366EF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74085E1E-3F3A-4333-BA70-5DE14366EF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56537BC4-0904-4DC2-89C7-30B3B1AE5CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56537BC4-0904-4DC2-89C7-30B3B1AE5CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56537BC4-0904-4DC2-89C7-30B3B1AE5CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56537BC4-0904-4DC2-89C7-30B3B1AE5CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
